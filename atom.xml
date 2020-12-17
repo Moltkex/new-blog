@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://https://moltkex.github.io/new-blog/</id>
+    <id>https://moltkex.github.io/new-blog/</id>
     <title>My Linux Thoughts and Other Stuff</title>
-    <updated>2020-12-17T04:24:30.853Z</updated>
+    <updated>2020-12-17T12:13:09.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://https://moltkex.github.io/new-blog/"/>
-    <link rel="self" href="https://https://moltkex.github.io/new-blog/atom.xml"/>
+    <link rel="alternate" href="https://moltkex.github.io/new-blog/"/>
+    <link rel="self" href="https://moltkex.github.io/new-blog/atom.xml"/>
     <subtitle>Stuff on Linux</subtitle>
-    <logo>https://https://moltkex.github.io/new-blog/images/avatar.png</logo>
-    <icon>https://https://moltkex.github.io/new-blog/favicon.ico</icon>
+    <logo>https://moltkex.github.io/new-blog/images/avatar.png</logo>
+    <icon>https://moltkex.github.io/new-blog/favicon.ico</icon>
     <rights>All rights reserved 2020, My Linux Thoughts and Other Stuff</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://https://moltkex.github.io/new-blog/post/hello-gridea/</id>
-        <link href="https://https://moltkex.github.io/new-blog/post/hello-gridea/">
+        <id>https://moltkex.github.io/new-blog/post/hello-gridea/</id>
+        <link href="https://moltkex.github.io/new-blog/post/hello-gridea/">
         </link>
         <updated>2020-12-16T07:54:43.000Z</updated>
         <summary type="html"><![CDATA[<p>👏 Welcome to <strong>Gridea</strong>!<br>
@@ -44,8 +44,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[New Post]]></title>
-        <id>https://https://moltkex.github.io/new-blog/post/New-Post/</id>
-        <link href="https://https://moltkex.github.io/new-blog/post/New-Post/">
+        <id>https://moltkex.github.io/new-blog/post/New-Post/</id>
+        <link href="https://moltkex.github.io/new-blog/post/New-Post/">
         </link>
         <updated>2020-12-15T15:07:17.000Z</updated>
         <content type="html"><![CDATA[<p><strong>This is a new post</strong><br>
